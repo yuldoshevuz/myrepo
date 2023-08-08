@@ -1,1 +1,2 @@
-Mening birinchi reposotory'im
+**Mening birinchi reposotory'im**
+__Salom__
